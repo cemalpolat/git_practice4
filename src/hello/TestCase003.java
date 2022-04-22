@@ -13,9 +13,6 @@ public class TestCase003 {
     // step2
 
     // ahan da
-
-
-
-
-}
-// This is the changes from local IntelliJ
+    
+    }
+// This is the changes from GitHub.com
